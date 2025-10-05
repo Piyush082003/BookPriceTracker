@@ -44,7 +44,6 @@ You can also download the full Excel file here:
 ---
 
 ## 📊 Demo
-If you have generated plots, add them here :
 ![Price Trend](images/Price_Trend.png)
 ![Rating Distribution](images/Count_by_rating.png)
 ![Stock Availability](images/stock_availability.png)
